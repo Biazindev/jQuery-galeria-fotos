@@ -77,12 +77,12 @@ ul li img{
     opacity: 0;
     transition: all ease .9s;
     overflow: hidden;
-    overflow-y: hidden;
 }
 
     .overlay-imagem-link a {
     color: #fff;
     text-decoration: none;
+
 
     }
 
@@ -90,5 +90,3 @@ ul li img{
         opacity: 1;
     }
         
-
-
