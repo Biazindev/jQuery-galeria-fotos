@@ -76,6 +76,7 @@ ul li img{
     width: 100%;
     opacity: 0;
     transition: all ease .9s;
+    overflow: hidden;
 }
 
     .overlay-imagem-link a {
